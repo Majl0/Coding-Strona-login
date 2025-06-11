@@ -1,0 +1,21 @@
+button {
+  background: #ffff;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+button:hover {
+  background: transparent;
+  color: white;
+  outline: 1px solid #ffff;
+}
+
+p {
+  font-size: 12px;
+  color: #ffff;
+  margin-top: 15px;
+}
